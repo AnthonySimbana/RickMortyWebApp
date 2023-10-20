@@ -1,0 +1,29 @@
+.not-found-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .rick-image {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: 20px;
+  }
+  
+  .not-found-text {
+    font-size: 32px;
+    color: #FF9800;
+  }
+  
+  .not-found-description {
+    font-size: 18px;
+    color: #888;
+  }
+  
+  /* Estilo opcional para el fondo */
+  body {
+    background-color: #1e1e1e;
+    color: white;
+    font-family: 'Arial', sans-serif;
+  }
+  
