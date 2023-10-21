@@ -1,4 +1,4 @@
-import { CharacterDetailStyles, CharacterImageStyles, CharacterNameStyles, CharacterFieldStyles, CharacterNoImageStyles } from "./CharacterDetail.styles";
+import { CharacterDetailStyles, CharacterImageStyles, CharacterNameStyles, CharacterFieldStyles } from "./CharacterDetail.styles";
 import { useCharacterDetail } from "./state/useCharacterDetail";
 
 export const CharacterDetail = () => {
